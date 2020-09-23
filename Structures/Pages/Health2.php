@@ -97,11 +97,11 @@
               
               <a href="<?php echo2($data->AffLink); ?>" target="_blank"><img src="gummy/images/hemp-farm.jpg" alt="" class="mt-5 mb-5" style="display: block;margin:0 auto;max-width: 100%;height:auto;" border="0"/></a>
               
-              <p class="">?The other problem is that most of these formulas only contain a single compound extract,? says Ms. Kim. ?CBD?s pure isolate cannabinoids are shown to work synergistically. In short, they work better together. It?s called the ?entourage effect.? Most miss out on the full effects because they are missing some of the best rejuvenating compounds within the hemp plant. This is why we?ve made <a href="<?php echo2($data->AffLink); ?>" target="_blank"><b><u><?php echo  $data->offer; ?></u></b></a> with the ?full hemp, low temp? extraction technology.?
+              <p class="">The other problem is that most of these formulas only contain a single compound extract, says Ms. Kim. CBDs pure isolate cannabinoids are shown to work synergistically. In short, they work better together. It's called the entourage effect. Most miss out on the full effects because they are missing some of the best rejuvenating compounds within the hemp plant. This is why we've made <a href="<?php echo2($data->AffLink); ?>" target="_blank"><b><u><?php echo  $data->offer; ?></u></b></a> with the full hemp, low temp extraction technology.
             </p>
             
             
-            <p class="m-t-25">?Finally, most CBD formulas are made on foreign farms with pesticides, or grown using non-organic seeds and processes. We?ve grown the hemp in <?php echo  $data->offer; ?> at a 100% organic American farm, under strict agricultural guidelines. It?s grown without pesticides or GMOs. And it?s grown to contain <strong>ZERO THC</strong> which we have the test results to prove it.?</p>
+            <p class="m-t-25">Finally, most CBD formulas are made on foreign farms with pesticides, or grown using non-organic seeds and processes. We've grown the hemp in <?php echo  $data->offer; ?> at a 100% organic American farm, under strict agricultural guidelines. It's grown without pesticides or GMOs. And it's grown to contain <strong>ZERO THC</strong> which we have the test results to prove it.</p>
             
             <img src="gummy/images/lift1.jpg" width="100%">
             <br>
@@ -117,25 +117,25 @@
             </p>
             <div>
               <p class="whythis"><strong>How It Works</strong></p>
-              <p class="m-t-25">The key to <?php echo  $data->offer; ?>?s health benefits is the Endocannabinoid system, a network of receptors in the cells. The system is there to maintain homeostasis (balance). In response to toxins in our body, it releases cannabinoids to set things back to their natural state.</p>
-              <p class="m-t-25">?It?s really amazing God-given system that?s been completely overlooked. Our bodies are practically designed to work with the compounds in CBD, which is why we need a solution like <a href="<?php echo2($data->AffLink); ?>" target="_blank"><b><u><?php echo  $data->offer; ?></u></b></a> that unleashes its full potential.?</p>
-              <p class="m-t-25">Over time, with aging, the endocannabinoid system eventually burns out. Fewer cannabinoids are released, so the body?s levels deplete. The result is, all sorts of symptoms of aging like age-related memory loss, blurry vision, joint discomfort, aches and pains, and other ailments.</p>
-              <p class="m-t-25">In fact, a recent survey revealed that <strong>60% of users say CBD is ?more effective? than prescription medications.</strong> 75% found CBD more effective than over-the-counter products, as you can see below:</p>
+              <p class="m-t-25">The key to <?php echo  $data->offer; ?>'s health benefits is the Endocannabinoid system, a network of receptors in the cells. The system is there to maintain homeostasis (balance). In response to toxins in our body, it releases cannabinoids to set things back to their natural state.</p>
+              <p class="m-t-25">It's really amazing God-given system that's been completely overlooked. Our bodies are practically designed to work with the compounds in CBD, which is why we need a solution like <a href="<?php echo2($data->AffLink); ?>" target="_blank"><b><u><?php echo  $data->offer; ?></u></b></a> that unleashes its full potential.</p>
+              <p class="m-t-25">Over time, with aging, the endocannabinoid system eventually burns out. Fewer cannabinoids are released, so the body's levels deplete. The result is, all sorts of symptoms of aging like age-related memory loss, blurry vision, joint discomfort, aches and pains, and other ailments.</p>
+              <p class="m-t-25">In fact, a recent survey revealed that <strong>60% of users say CBD is more effective than prescription medications.</strong> 75% found CBD more effective than over-the-counter products, as you can see below:</p>
               <a href="<?php echo2($data->AffLink); ?>" target="_blank"><img src="gummy/images/graph-2.jpg" width="100%" border="0"></a>
               <br>
               
-              <p class="m-t-25">One <?php echo  $data->offer; ?> Gummy boosts your endocannabinoid system ? soothing aches and pains,  inflammation, improving sleep cycles, mood, memory, focus, and mental acuity. And you don't need to worry about failing a drug test, there is <b>NO THC</b> or psychoactive effects so you get amazing <u><strong>relief without any ?high?</strong></u></p>
-              <p class="whythis"><strong>Case After Case Says It Can?</strong></p>
+              <p class="m-t-25">One <?php echo  $data->offer; ?> Gummy boosts your endocannabinoid system soothing aches and pains,  inflammation, improving sleep cycles, mood, memory, focus, and mental acuity. And you don't need to worry about failing a drug test, there is <b>NO THC</b> or psychoactive effects so you get amazing <u><strong>relief without any high</strong></u></p>
+              <p class="whythis"><strong>Case After Case Says It Can</strong></p>
               <ul class="mylist">
                 <li><b>Relieve pain</b> by binding to CB1 receptors while reducing swelling and inflammation</li>
                 <li><b>Reduces social anxiety</b> , cognitive impairment, and discomfort in patients diagnosed with Generalized Social Anxiety Disorder (SAD)</li>
-                <li><b>Improves sleep quality</b> , so you get a full night?s rest and wake up refreshed with more energy
+                <li><b>Improves sleep quality</b> , so you get a full night's rest and wake up refreshed with more energy
                 </li>
                 <li>Increases memory and focus</li>
                 <li><b>Helps combat neurodegenerative disorders</b> like Alzheimers by removing plaque that block neuron-signaling</li>
                 <li><b>Reduces cigarette, drug, & alcohol addiction</b> by modulating the rewarding effects of addictive compounds</li>
                 <li>Helps to regulate blood sugar</li>
-                <li><b>Provides relief to those suffering from IBD</b> (Crohn?s or Colitis) through it's anti-inflammatory effects</li>
+                <li><b>Provides relief to those suffering from IBD</b> (Crohns or Colitis) through it's anti-inflammatory effects</li>
                 <li><b>Helps to improve symptoms of MS</b> (multiple sclerosis) by providing durable protection to neurons</li>
                 <li><b>Works to help eliminate fat</b> by reducing appetite and cravings</li>
                 <li>Reduces muscle spasms and cramps</li>
@@ -151,7 +151,7 @@
               <br>
               <p class="whythis"><strong>Taking All The Risk Off Consumers</strong></p>
               <p class="m-t-25">A large percentage of men and women using <?php echo  $data->offer; ?> experience truly amazing results. That's why it's now being sold with a guarantee that goes way beyond the industry standard.</p>
-              <p class="m-t-25">?We can only make this guarantee because we are <strong>100% certain our customers will be satisfied</strong>. We want to take full risk off consumers. So in addition to offering up to <u>two free bottles + free shipping</u> for first time customers, we also make them a huge promise that ensures they don't have to risk a cent? says Anthony Sims, <?php echo  $data->offer; ?> CEO.</p>
+              <p class="m-t-25">We can only make this guarantee because we are <strong>100% certain our customers will be satisfied</strong>. We want to take full risk off consumers. So in addition to offering up to <u>two free bottles + free shipping</u> for first time customers, we also make them a huge promise that ensures they don't have to risk a cent says Anthony Sims, <?php echo  $data->offer; ?> CEO.</p>
               <p class="m-t-25">Here's how it works: <a href="<?php echo2($data->AffLink); ?>" target="_blank"><b><u>Take <?php echo  $data->offer; ?></u></b></a>  as directed and you must be thrilled with the results! Otherwise, simply return the empty bottles within 60 days. Then, the company will refund your money for having tried the product.</p>
               <p class="whythis"><strong>Where To Find <?php echo  $data->offer; ?></strong></p>
               <p class="m-t-25">This is the official nationwide release of <?php echo  $data->offer; ?> in America. And so, the company is offering up to <a href="<?php echo2($data->AffLink); ?>" target="_blank"><b><u>TWO FREE BOTTLES</u></b></a> on qualifying orders placed  <span class="current-date">
@@ -173,9 +173,9 @@
             
           </p>
           <p class="m-t-25">A secure website has been set up for readers to place orders. This gives everyone an equal chance to try <?php echo  $data->offer; ?>.</p>
-          <p class="m-t-25"><?php echo  $data->offer; ?> Gummies may be of tremendous importance to you or a loved one. It can show you how the blessings of a cure from daily discomfort ? freedom from pain, anxiety, and sleepless nights ? can be yours once again, no matter your age and no matter how long you have suffered.</p>
-          <p class="m-t-25">If you are not convinced that this is the most important product in your daily health regimen ? a product that may show you or a loved one how to enjoy absolutely pain-free living and an anxiety-free life ? return it at once and the company will promptly issue a complete refund, no questions asked.</p>
-          <p class="m-t-25">This offer won?t last for long so make sure you follow the link below to <a href="<?php echo2($data->AffLink); ?>" target="_blank"><b><u>Claim up to TWO FREE Bottles + FREE shipping!</u></b></a></p>
+          <p class="m-t-25"><?php echo  $data->offer; ?> Gummies may be of tremendous importance to you or a loved one. It can show you how the blessings of a cure from daily discomfort freedom from pain, anxiety, and sleepless nights can be yours once again, no matter your age and no matter how long you have suffered.</p>
+          <p class="m-t-25">If you are not convinced that this is the most important product in your daily health regimen a product that may show you or a loved one how to enjoy absolutely pain-free living and an anxiety-free life return it at once and the company will promptly issue a complete refund, no questions asked.</p>
+          <p class="m-t-25">This offer won't last for long so make sure you follow the link below to <a href="<?php echo2($data->AffLink); ?>" target="_blank"><b><u>Claim up to TWO FREE Bottles + FREE shipping!</u></b></a></p>
           
           <center>
           &nbsp; &nbsp; &nbsp; &nbsp;
@@ -236,7 +236,7 @@ Current Stock <font color=#EE0000>LOW</font>, Sell-Out Risk <font color=#EE0000>
             <i class="fa fa-facebook"></i>
             <span class="counter count">5.1m</span>
           </a>
-          <a href="#" data-url="#" data-via="" data-text="Whata would you pay to erase pain?" class="social-thing twitter ot-tweet" target="_BLANK" onclick="return !window.open(this.href, 'Google', 'scrollbars=1,width=500,height=500')">
+          <a href="#" data-url="#" data-via="" data-text="Whata would you pay to erase pain" class="social-thing twitter ot-tweet" target="_BLANK" onclick="return !window.open(this.href, 'Google', 'scrollbars=1,width=500,height=500')">
             <i class="fa fa-twitter"></i>
             <span class="counter count">992,298</span>
           </a>
@@ -254,7 +254,7 @@ Current Stock <font color=#EE0000>LOW</font>, Sell-Out Risk <font color=#EE0000>
         <img src="gummy/images/img1.png" class="img-responsive sign-img" />
         <p class="m-t-25" style="margin-top:0!important;">Laura Turner<br>
         <em>Associated Health Press</em></p>
-        <p class="m-t-25"><b>P.S.</b> The natural pain relief miracle you?re about to discover was off limits for more than 80 years. Greedy drug companies made sure you couldn?t get your hands on it. They didn?t want you to have a proven natural remedy that fights arthritis, anxiety, joint aches, insomnia, and inflammation safely and without a prescription. This could be your one and only chance to learn more and try it yourself before Big Pharma tries to get it banned again.
+        <p class="m-t-25"><b>P.S.</b> The natural pain relief miracle you're about to discover was off limits for more than 80 years. Greedy drug companies made sure you couldn't get your hands on it. They didn't want you to have a proven natural remedy that fights arthritis, anxiety, joint aches, insomnia, and inflammation safely and without a prescription. This could be your one and only chance to learn more and try it yourself before Big Pharma tries to get it banned again.
           <a href="<?php echo2($data->AffLink); ?>" target="_blank"><b><u>Try <?php echo  $data->offer; ?> RISK-FREE!</u></b></a></p>
           <br>
           
